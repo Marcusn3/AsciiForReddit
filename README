@@ -1,0 +1,5 @@
+CLI-Based Reddit client
+Usage:
+1.run reddit.py
+2.input Subreddit
+3.input Count of Posts to get
