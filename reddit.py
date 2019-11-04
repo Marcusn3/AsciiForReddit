@@ -20,8 +20,9 @@ for submission in subreddit.hot(limit=postlimit):
     if any(extension in submission.url for extension in EXTENSIONS):
         output = ascii.loadFromUrl(url)
         print(output)
+        print("by u/" + author)
+        print(divider)
     else:
+        print("by u/" + author)
+        print(divider)
         continue
-    output = ascii.loadFromUrl(url)
-    print("by u/" + author)
-    print(divider)
