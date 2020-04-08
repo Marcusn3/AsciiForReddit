@@ -1,7 +1,9 @@
 # CLI-Based Reddit client
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com/)
+
 ## Requirements:
-- praw (`$ pip install praw`)
+- praw ( ` $ pip install praw `)
 
 ## Usage:
 1. Enter your details in praw.ini
