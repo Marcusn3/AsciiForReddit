@@ -7,6 +7,6 @@
 
 ## Usage:
 1. Enter your details in praw.ini
-2. run `$ python3 reddit.py´
+2. run ´$ python3 reddit.py´
 3. Input a subreddit
 4. Input the number of Posts to display
