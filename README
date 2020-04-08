@@ -1,5 +1,9 @@
-CLI-Based Reddit client
-Usage:
-1.run reddit.py
-2.input Subreddit
-3.input Count of Posts to get
+# CLI-Based Reddit client
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com/)
+## Requirements:
+- praw (pip install praw
+
+## Usage:
+1. un reddit.py
+2. nput Subreddit
+3. nput Count of Posts to get
